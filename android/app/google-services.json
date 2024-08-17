@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "763842734570",
+    "project_id": "lastcheck-8ab2b",
+    "storage_bucket": "lastcheck-8ab2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763842734570:android:0b3be7753ec6b1ca186a93",
+        "android_client_info": {
+          "package_name": "com.example.appuserlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIc3E2a8hNgjUcPHeJvx4nvXfcTItZK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
